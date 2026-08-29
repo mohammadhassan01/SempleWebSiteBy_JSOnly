@@ -12,7 +12,7 @@ header.appendChild(groupOfLinks)
 
 // Add The Content To The ELement
 
-logo.innerText = "Elzero"
+logo.innerText = "Khater"
 for (let i = 0; i < linksValue.length; i++) {
   const linkList = document.createElement("li")
   const links = document.createElement("a")
